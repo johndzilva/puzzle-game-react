@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You can view the live [here](https://johndzilva.github.io/puzzle-game-react/)
+
 ![Preview Image](https://github.com/johndzilva/puzzle-game-react/blob/main/src/images/Preview.png)
 
 ## Available Scripts
