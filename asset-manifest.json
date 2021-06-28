@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/puzzle-game-react/static/css/main.50bd5266.chunk.css",
+    "main.js": "/puzzle-game-react/static/js/main.131c46e6.chunk.js",
+    "main.js.map": "/puzzle-game-react/static/js/main.131c46e6.chunk.js.map",
+    "runtime-main.js": "/puzzle-game-react/static/js/runtime-main.1e2296dd.js",
+    "runtime-main.js.map": "/puzzle-game-react/static/js/runtime-main.1e2296dd.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/puzzle-game-react/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.3e79036c.chunk.js": "/puzzle-game-react/static/js/2.3e79036c.chunk.js",
+    "static/js/2.3e79036c.chunk.js.map": "/puzzle-game-react/static/js/2.3e79036c.chunk.js.map",
+    "index.html": "/puzzle-game-react/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/puzzle-game-react/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.50bd5266.chunk.css.map": "/puzzle-game-react/static/css/main.50bd5266.chunk.css.map",
+    "static/js/2.3e79036c.chunk.js.LICENSE.txt": "/puzzle-game-react/static/js/2.3e79036c.chunk.js.LICENSE.txt",
+    "static/media/aave.e148933d.png": "/puzzle-game-react/static/media/aave.e148933d.png",
+    "static/media/audi.b7896402.png": "/puzzle-game-react/static/media/audi.b7896402.png",
+    "static/media/batman.367f008f.png": "/puzzle-game-react/static/media/batman.367f008f.png",
+    "static/media/bmw.c5ad9d85.png": "/puzzle-game-react/static/media/bmw.c5ad9d85.png",
+    "static/media/instagram.130e82b6.png": "/puzzle-game-react/static/media/instagram.130e82b6.png",
+    "static/media/superman.fd077ab0.png": "/puzzle-game-react/static/media/superman.fd077ab0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e2296dd.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.3e79036c.chunk.js",
+    "static/css/main.50bd5266.chunk.css",
+    "static/js/main.131c46e6.chunk.js"
+  ]
+}
